@@ -6,7 +6,7 @@ This kit can be purchased through the [Losant IoT Developer Store](https://store
 
 This repository contains the source code for the door sensor microcontroller and the exported workflow. Please refer to the [kit instructions](https://docs.losant.com/images/getting-started/losant-iot-dev-kits/door-sensor/door-sensor.jpg) for more details.
 
-<img src="https://docs.losant.com/images/getting-started/losant-iot-dev-kits/moisture-sensor/moisture-sensor-header.jpg" style="width: 640px;" width="640">
+<img src="https://docs.losant.com/images/getting-started/losant-iot-dev-kits/door-sensor/door-sensor.jpg" style="width: 640px;" width="640">
 
 Copyright (c) 2016 Losant IoT Inc. All rights reserved. <br />
 https://www.losant.com
